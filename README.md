@@ -28,4 +28,14 @@
 
 ---
 
-# What I Learned Building This Project
+# 🧠 What I Learned Building This
+## This project was built to strengthen my understanding of:
+- Python file handling
+- Directory Transversal
+- Hashing Algorithms
+- CLI/TUI Structure and user flow design
+- Clean Architecture for small tools
+
+---
+
+
