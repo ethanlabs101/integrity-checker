@@ -115,9 +115,9 @@ This ensures:
 
 # ⚠️ Notes
 
-- Designed for user-space directory scanning (Non-system/protected files)
-- Not intended as a full system-wide/large scale audit tool
-- Uses a single snapshot database
-- Saving a new snapshot overwrites the previous stored baseline. (1 at a time)
+- Designed for user-space directory scanning (Non-system/protected files).
+- Not intended as a full system-wide/large scale audit tool.
+- Uses a single snapshot database.
+- Saving a new snapshot overwrites the previous stored baseline (1 at a time).
 
 ---
