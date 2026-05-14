@@ -14,17 +14,17 @@
 ---
 
 # 🚀 Features
-- Recursive folder scanning
-- SHA-256 file hashing
-- Snapshot creation and storage
-- Integrity verification against saved snapshots
-- Detection of:
+- 📁 Recursive folder scanning
+- 🔒 SHA-256 file hashing
+- 📷 Snapshot creation and storage
+- 🔍 Integrity verification against saved snapshots
+- ⚠️ Detection of:
   - Modified Files
   - New Files
   - Missing Files
-- Clean TUI
-- Auto-clear interface for smooth interaction
-- User-safe storage using home directory config path
+- 🖥️ Clean TUI
+- 🧹 Auto-clear interface for smooth interaction
+- 👤 User-safe storage using home directory config path
 
 ---
 
