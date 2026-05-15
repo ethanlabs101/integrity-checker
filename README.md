@@ -13,6 +13,22 @@
 
 ---
 
+# 🔒 Why Use Integrity Shield/SHA-256?
+- Integrity Shield uses SHA-256 cryptographic hashing to verify file integrity.
+- SHA-256 produces a unique fingerprint for every file scanned.
+- Even a single byte change - whether from modification, corruption, or tampering - generates, a completely different hash value.
+
+- This allows Integrity Shield to reliably detect:
+  - Modified Files
+  - Injected Content
+  - Corruption
+  - Missing Files
+  - Newly added files
+ 
+> Due to the avalanche effect of cryptographic hashing, even the smallest file change results in a dramatically different output hash, making SHA-256 a trusted standard for integrity verification and cybersecurity tooling.
+
+---
+
 # 🚀 Features
 - 📁 Recursive folder scanning
 - 🔒 SHA-256 file hashing
