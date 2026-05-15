@@ -124,7 +124,7 @@ This ensures:
 
 ## 📜 License
 
-This project is open source and released under the MIT License. See [LICENSE](https://github.com/ethanlabs101/rofi-emulator-menu/blob/main/LICENSE) for details.
+This project is open source and released under the MIT License. See [LICENSE](https://github.com/ethanlabs101/integrity-shield/blob/main/LICENSE) for details.
 
 ---
 
