@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ethanlabs101/integrity-shield/blob/main/images/Integrity_Shield.png)
 
-![Python](https://img.shields.io/badge/Python-EF1FFF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6C3BAA?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 ## ***Integrity Shield is a lightweight file integrity monitoring tool built in Python.*** 
