@@ -1,4 +1,4 @@
-# Integrity Shield 🛡️
+![Banner](https://github.com/ethanlabs101/integrity-shield/blob/main/images/Integrity_Shield.png)
 
 ![Python](https://img.shields.io/badge/Python-EF1FFF?style=for-the-badge&logo=python&logoColor=white)
 
